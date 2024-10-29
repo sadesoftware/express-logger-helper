@@ -1,6 +1,6 @@
 {
   "name": "express-logger-helper",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "A simple logging and reporting tool for Node.js and Express.js applications.",
   "main": "index.js",
   "scripts": {
