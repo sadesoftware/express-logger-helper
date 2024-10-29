@@ -1,6 +1,6 @@
 {
   "name": "express-logger-helper",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A simple logging and reporting tool for Node.js and Express.js applications.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/express-logger-helper.git"
+    "url": "git+https://github.com/sadesoftware/express-logger-helper.git"
   },
   "keywords": [
     "express",
